@@ -1,0 +1,50 @@
+{
+    "emails": [
+        "alice.johnson@gmail.com",
+        "david.kim99@yahoo.com",
+        "admin@fake..com",
+        "maria.lopez@company.co.uk",
+        "maria_backup@outlook.com"
+    ],
+    "alu_official_emails": [
+        "alice_work@alueducation.com",
+        "davidkim@alueducation.com",
+        "support@alueducation.com"
+    ],
+    "alu_alumni_emails": [
+        "jc_manzi@alumni.alueducation.com",
+        "community@alumni.alueducation.com"
+    ],
+    "alu_si_emails": [
+        "sarah.si@si.alueducation.com",
+        "innovation.lab@si.alueducation.com"
+    ],
+    "urls": [
+        "https://aliceportfolio.dev",
+        "http://jeanclaude.me",
+        "www.sarahdesign.org",
+        "http://malicious-site.com/steal-cookie');",
+        "https://www.linkedin.com/in/davidkim",
+        "https://github.com/davidkim99",
+        "https://safe-site.com/login?redirect=",
+        "https://shop.example-store.com/products/item?id=8821",
+        "https://api.paymentgateway.com/v2/process",
+        "http://legacy-system.net/archive",
+        "https://sub.domain.example.com/path/page.html"
+    ],
+    "phone_numbers": [
+        "+1 (202) 555-0178",
+        "+250-788-123-456",
+        "(415)555-2671",
+        "+44 20 7946 0958",
+        "+44-7700-900123",
+        "+34 612 345 678"
+    ],
+    "credit_cards_masked": [
+        "************6467",
+        "************0004",
+        "***********0009",
+        "************1111",
+        "************9424"
+    ]
+}
